@@ -1,0 +1,6 @@
+.vs/*
+ConsoleReflect/bin/*
+ConsoleReflect/obj/*
+
+Example/bin/*
+Example/obj/*
