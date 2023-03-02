@@ -152,3 +152,16 @@ AdditionalMessage        -m, --message
 SomeDoubleSetting        -d, --double
          sets the double value that will be printed at the end of this module [0,5]
 ```
+
+
+All properties can be combined in different ways.
+When properties are considert flags they can be concaternated in short form like this:
+`example -lm`
+
+If one or more combined properties are not flags they will get the next value as content.
+Here is an example:
+```
+example -dm 1
+ -d = 1
+ -m = 1
+```
