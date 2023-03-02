@@ -1,0 +1,10 @@
+D:\Development\ConsoleReflect\ConsoleReflect\bin\Debug\netstandard2.0\ConsoleReflect.deps.json
+D:\Development\ConsoleReflect\ConsoleReflect\bin\Debug\netstandard2.0\ConsoleReflect.dll
+D:\Development\ConsoleReflect\ConsoleReflect\bin\Debug\netstandard2.0\ConsoleReflect.pdb
+D:\Development\ConsoleReflect\ConsoleReflect\obj\Debug\netstandard2.0\ConsoleReflect.csproj.AssemblyReference.cache
+D:\Development\ConsoleReflect\ConsoleReflect\obj\Debug\netstandard2.0\ConsoleReflect.GeneratedMSBuildEditorConfig.editorconfig
+D:\Development\ConsoleReflect\ConsoleReflect\obj\Debug\netstandard2.0\ConsoleReflect.AssemblyInfoInputs.cache
+D:\Development\ConsoleReflect\ConsoleReflect\obj\Debug\netstandard2.0\ConsoleReflect.AssemblyInfo.cs
+D:\Development\ConsoleReflect\ConsoleReflect\obj\Debug\netstandard2.0\ConsoleReflect.csproj.CoreCompileInputs.cache
+D:\Development\ConsoleReflect\ConsoleReflect\obj\Debug\netstandard2.0\ConsoleReflect.dll
+D:\Development\ConsoleReflect\ConsoleReflect\obj\Debug\netstandard2.0\ConsoleReflect.pdb
